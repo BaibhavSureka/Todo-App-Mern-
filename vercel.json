@@ -3,6 +3,10 @@
     { "source": "/(.*)", "destination": "/" }
   ],
   "builds": [
-    { "src": "frontend/package.json", "use": "@vercel/static-build", "config": { "distDir": "frontend/dist" } }
+    {
+      "src": "Frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "Frontend/dist" }
+    }
   ]
 }
