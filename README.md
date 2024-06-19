@@ -1,3 +1,9 @@
+# TODO APP
+
+![image](https://github.com/BaibhavSureka/Todo-App-Mern-/assets/83425243/ce04e468-ed74-4bf6-8c53-4016d62e9604)
+
+![image](https://github.com/BaibhavSureka/Todo-App-Mern-/assets/83425243/e7c45326-9829-4f4c-b7be-541301b4a120)
+
 # Installation
 Run the following command to clone the repository
 ```
