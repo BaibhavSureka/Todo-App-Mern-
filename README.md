@@ -12,11 +12,11 @@ git clone https://github.com/BaibhavSureka/Todo-App-Mern-
 Go to ```frontend``` and ```backend``` directory to install packages
 ```
 cd frontend
-npm install
+npm i
 ```
 ```
 cd backend
-npm install
+npm i
 ```
 # Configuration
 Create ```.env``` file inside ```backend``` directory and copy the following code
