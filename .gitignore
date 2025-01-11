@@ -1,6 +1,7 @@
 # dependencies
 node_modules
 /backend/.env
+/frontend/.env
 /.pnp
 .pnp.js
 # testing
